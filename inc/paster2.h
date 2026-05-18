@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+#include <curl/curl.h>
+#include <sys/shm.h>
+#include <sys/wait.h>
+#include <sys/time.h>
+#include <semaphore.h>
